@@ -97,3 +97,9 @@ button{
 
 
 }
+
+p{
+    position: relative;
+    left:25%;
+    bottom: -250%;
+}
